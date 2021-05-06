@@ -12,4 +12,4 @@ Link yang sudah di deploy : simplemath.infinityfreeapp.com
 	- nextsoal.php -> merupakan pertanyaan selanjutnya seperti pada page permainan.php namun disini scor dan lives sudah ditambah/dikurangi
 	- gameover.php -> page ini merupakan tampilan akhir jika user kehabisan skor dan lives kemudian menampilkan skor akhir yang diperoleh user kemudian pada page ini juga ditampilkan hall of fame yang merupakan tabel database dari skor-skor para user. Pada page ini di sertakan 2 button. button 1 untuk menghapus semua session dan cookie kemudian mendirect user ke logout.php sedangkan button 2 untuk memulai permainan baru dengan data user yang berbeda tanpa menghilangkan session dan cookie sebelumnya
 
-kemudian disertakan pula cek.php pada web untuk mencegah user yang ingin by pass ke dalam web
+kemudian disertakan pula cek.php pada web untuk mencegah user yang ingin by pass ke dalam web dan style.css untuk style sederhana pada button dan tabel hall of fame 
